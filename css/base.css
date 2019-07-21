@@ -22,7 +22,7 @@ body {
 	-moz-osx-font-smoothing: grayscale;
 	padding-top: 10rem;
 	font-family: 'Cairo', sans-serif;
-	background: linear-gradient(270deg, #004b89, #727374, #8a0092, #36718c);
+	background: linear-gradient(270deg, #011d35, #08437a, #8a0092, #011c29);
 	background-size: 800% 800%;
 	-webkit-animation: AnimationName 19s ease infinite;
 	-moz-animation: AnimationName 19s ease infinite;
