@@ -1,0 +1,22 @@
+{
+  "name": "orinocostudio",
+  "version": "1.0.1",
+  "description": "Web Portfolio",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sangheet/portfolio.git"
+  },
+  "author": "Norbis Magallanes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sangheet/portfolio/issues"
+  },
+  "homepage": "https://github.com/sangheet/portfolio#readme",
+  "dependencies": {
+    "serve": "^11.1.0"
+  }
+}
