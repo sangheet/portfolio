@@ -278,6 +278,7 @@ a:focus {
 .js .slide__side {
 	opacity: 0;
 	pointer-events: none;
+	color: #ffffff;
 }
 
 .js .slide--current .slide__img-wrap {
